@@ -31,3 +31,6 @@
 
 ## 冷启动
 * [MaterialColdStart](https://github.com/DreaminginCodeZH/MaterialColdStart)
+
+## 二维码扫描
+* [BGAQRCode-Android](https://github.com/bingoogolapple/BGAQRCode-Android)
