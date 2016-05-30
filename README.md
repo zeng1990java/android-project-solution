@@ -9,6 +9,8 @@
 
 ## 系统状态栏处理
 * [FlycoSystemBar](https://github.com/H07000223/FlycoSystemBar)
+* [MaterialStatusBarCompat](https://github.com/fython/MaterialStatusBarCompat)
+* [SystemUiHelper](https://github.com/DreaminginCodeZH/SystemUiHelper)
 
 ## SharedPreference简化
 * [android-prefs](https://github.com/BoD/android-prefs)
