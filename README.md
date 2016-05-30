@@ -18,3 +18,16 @@
 ## 图片裁剪
 * [uCrop](https://github.com/Yalantis/uCrop)
 * [android-crop](https://github.com/jdamcd/android-crop)
+
+## dialogs
+* [bottomsheet](https://github.com/Flipboard/bottomsheet)
+* [material-dialogs](https://github.com/afollestad/material-dialogs)
+
+## SwitchButton
+* [SwitchButton](https://github.com/kyleduo/SwitchButton)
+
+## ProgressBar
+* [MaterialProgressBar](https://github.com/DreaminginCodeZH/MaterialProgressBar)
+
+## 冷启动
+* [MaterialColdStart](https://github.com/DreaminginCodeZH/MaterialColdStart)
