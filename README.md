@@ -14,3 +14,7 @@
 
 ## SharedPreference简化
 * [android-prefs](https://github.com/BoD/android-prefs)
+
+## 图片裁剪
+* [uCrop](https://github.com/Yalantis/uCrop)
+* [android-crop](https://github.com/jdamcd/android-crop)
