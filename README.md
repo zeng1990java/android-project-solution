@@ -34,3 +34,6 @@
 
 ## 二维码扫描
 * [BGAQRCode-Android](https://github.com/bingoogolapple/BGAQRCode-Android)
+
+## 用户引导
+* [MaterialIntroView](https://github.com/iammert/MaterialIntroView)
