@@ -39,3 +39,6 @@
 * [MaterialIntroView](https://github.com/iammert/MaterialIntroView)
 
 ## [欢迎页面](subjects/app-intros)
+
+## Job schedule
+* [android-priority-jobqueue](https://github.com/yigit/android-priority-jobqueue)
