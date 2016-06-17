@@ -25,6 +25,7 @@
 
 ## SwitchButton
 * [SwitchButton](https://github.com/kyleduo/SwitchButton)
+* [JellyToggleButton](https://github.com/Nightonke/JellyToggleButton/)
 
 ## ProgressBar
 * [MaterialProgressBar](https://github.com/DreaminginCodeZH/MaterialProgressBar)
