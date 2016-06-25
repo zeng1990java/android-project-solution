@@ -36,6 +36,9 @@
 ## 二维码扫描
 * [BGAQRCode-Android](https://github.com/bingoogolapple/BGAQRCode-Android)
 
+## 主题
+* [Bilibili Android 多主题框架 MagicaSakura](https://github.com/Bilibili/MagicaSakura)
+
 ## 用户引导
 * [MaterialIntroView](https://github.com/iammert/MaterialIntroView)
 
