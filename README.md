@@ -15,9 +15,10 @@
 ## SharedPreference简化
 * [android-prefs](https://github.com/BoD/android-prefs)
 
-## 图片裁剪
+## 图片裁剪&压缩
 * [uCrop](https://github.com/Yalantis/uCrop)
 * [android-crop](https://github.com/jdamcd/android-crop)
+* [Compressor](https://github.com/zetbaitsu/Compressor)
 
 ## dialogs
 * [bottomsheet](https://github.com/Flipboard/bottomsheet)
