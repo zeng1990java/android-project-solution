@@ -11,6 +11,7 @@
 * [FlycoSystemBar](https://github.com/H07000223/FlycoSystemBar)
 * [MaterialStatusBarCompat](https://github.com/fython/MaterialStatusBarCompat)
 * [SystemUiHelper](https://github.com/DreaminginCodeZH/SystemUiHelper)
+* [StatusBarCompat](https://github.com/niorgai/StatusBarCompat)
 
 ## SharedPreference简化
 * [android-prefs](https://github.com/BoD/android-prefs)
