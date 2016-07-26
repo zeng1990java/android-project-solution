@@ -48,3 +48,6 @@
 
 ## Job schedule
 * [android-priority-jobqueue](https://github.com/yigit/android-priority-jobqueue)
+
+## log
+* [LogReport](https://github.com/wenmingvs/LogReport)
