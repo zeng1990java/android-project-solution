@@ -20,6 +20,7 @@
 * [uCrop](https://github.com/Yalantis/uCrop)
 * [android-crop](https://github.com/jdamcd/android-crop)
 * [Compressor](https://github.com/zetbaitsu/Compressor)
+* [Luban](https://github.com/Curzibn/Luban)
 
 ## dialogs
 * [bottomsheet](https://github.com/Flipboard/bottomsheet)
