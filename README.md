@@ -33,6 +33,9 @@
 ## ProgressBar
 * [MaterialProgressBar](https://github.com/DreaminginCodeZH/MaterialProgressBar)
 
+## RecyclerView
+* [侧滑菜单&滑动删除&拖拽排序](https://github.com/yanzhenjie/SwipeRecyclerView)
+
 ## 冷启动
 * [MaterialColdStart](https://github.com/DreaminginCodeZH/MaterialColdStart)
 
