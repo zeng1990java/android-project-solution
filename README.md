@@ -36,6 +36,9 @@
 ## RecyclerView
 * [侧滑菜单&滑动删除&拖拽排序](https://github.com/yanzhenjie/SwipeRecyclerView)
 
+## 缓存
+* [RxCache](https://github.com/VictorAlbertos/RxCache)
+
 ## 冷启动
 * [MaterialColdStart](https://github.com/DreaminginCodeZH/MaterialColdStart)
 
