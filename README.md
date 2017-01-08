@@ -1,6 +1,10 @@
 # Android 项目解决方案
 ---
 
+## 加密&安全
+* [Android KeyStore封装---scytale](https://github.com/yakivmospan/scytale)
+* [Android 密钥保护和 C/S 网络传输安全理论指南](https://drakeet.me/android-security-guide)
+
 ## 键盘处理
 * [JKeyboardPanelSwitch-Android键盘面板冲突 布局闪动处理方案](https://github.com/Jacksgong/JKeyboardPanelSwitch)
 
